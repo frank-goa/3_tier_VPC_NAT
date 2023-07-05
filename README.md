@@ -1,5 +1,8 @@
 # Design a 3 Tier AWS VPC with NAT Gateways using Terraform
 
+![image](https://github.com/frank-goa/3_tier_VPC_NAT/assets/137857643/1b9de61e-b6c7-466c-abe1-8999ea687339)
+
+
 ## Step-01: Introduction
 - Create VPC using `Terraform Modules`
 - Define `Input Variables` for VPC module and reference them in VPC Terraform Module

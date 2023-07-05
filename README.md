@@ -72,7 +72,7 @@ module "vpc" {
 ## Step-03: Execute Terraform Commands
 ```t
 # Working Folder
-terraform-manifests/vpc-module
+vpc-module
 
 # Terraform Initialize
 terraform init
